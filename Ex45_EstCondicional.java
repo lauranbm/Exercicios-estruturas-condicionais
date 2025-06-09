@@ -20,7 +20,7 @@ public class Ex45_EstCondicional {
 	public static void cargaCaminhao() {
 		Scanner dado = new Scanner(System.in);
 	
-		int codigoEst, pesoCarga, codigoCarga, pesoEmKg, imposto;
+		int codigoEst, pesoCarga, codigoCarga, pesoEmKg;
 		double impostoDaCarga = 0f, valorTotal, precoCarga;
 	
 		System.out.print("Carga de caminhão!\n");
