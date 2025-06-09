@@ -3,12 +3,12 @@
  região seja sempre válida, ou seja: um número entre 1 e 5 
  - O peso da carga do caminhão em toneladas - O código da carga, supondo que a digitação do
  código seja sempre válida, ou seja, um número inteiro entre 10 e 40.
- Codigo do estado			Imposto				codigo da carga			preço por kg
- 1							35%						10 a 20					100
- 2							25%						21 a 30					250
- 3							15%						31 a 40					340
- 4							5%
- 5							isento
+ Codigo do estado			Imposto					codigo da carga			preço por kg
+ 1					35%					10 a 20					100
+ 2					25%					21 a 30					250
+ 3					15%					31 a 40					340
+ 4					5%
+ 5					isento
 Calcule e mostre:    
 a) O peso da carga do caminhão convertido em quilos 
 b) O preço da carga do caminhão 
